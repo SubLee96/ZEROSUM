@@ -1,0 +1,6 @@
+SCOTT/TIGER 계정에는 여러개의 내용 중에서 EMP, DEPT, SALGRADE를 가지고 있다. 가장 기초적인 데이터이니 숙지해둘 것!
+
+SELECT * FROM EMP;
+SELECT * FROM DEPT;
+SELECT * FROM SALGRADE;
+
